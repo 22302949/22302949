@@ -36,6 +36,7 @@
 
 ## Languages
 
+* Kyrgyz (С1)
 * English (B2)
 * Russian (С1)
 * Turkish (B1)
